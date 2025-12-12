@@ -49,6 +49,7 @@ Each theme includes:
    - `.colors` files can be installed on the KDE system (optional, for complete integration)
 
 3. **Apply the theme in Krita**
+
    - Open Krita
    - Go to **Settings** → **Style Sheet Loader** (or the corresponding plugin menu)
    - Select the desired `.qss` file from the `themes/` folder
@@ -66,6 +67,7 @@ For a complete experience, you can also apply the corresponding `.colors` file:
    - Or use the **System Settings** → **Appearance** → **Colors** application to import
 
 2. **Apply in Krita**
+
    - Go to **Settings** → **Configure Krita** → **General**
    - Select the color scheme in the appearance section
 
