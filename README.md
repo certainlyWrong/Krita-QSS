@@ -2,15 +2,26 @@
 
 This repository contains interface themes (QSS - Qt Style Sheets) to customize Krita's appearance using the [Style Sheet Loader Extension](https://invent.kde.org/freyalupen/style-sheet-loader-extension) plugin.
 
+![Krita QSS Themes](assets/Screenshot_20251212_105526.png)
+
 ## 📦 Available Themes
 
 The repository includes the following themes:
 
 1. **Dracula** - Dark theme inspired by the Dracula color scheme
+   ![Dracula Theme](assets/Screenshot_20251212_105539.png)
+
 2. **FluentDark** - Dark theme in Microsoft Fluent Design style
+   ![FluentDark Theme](assets/Screenshot_20251212_110301.png)
+
 3. **ReversalDark** - Dark theme with inverted color palette
+   ![ReversalDark Theme](assets/Screenshot_20251212_110313.png)
+
 4. **ViolaDarkColorScheme** - Dark theme with Viola color scheme
+   ![ViolaDarkColorScheme Theme](assets/Screenshot_20251212_110443.png)
+
 5. **Windows11Sunset** - Windows 11 inspired theme with sunset tones
+   ![Windows11Sunset Theme](assets/Screenshot_20251212_110558.png)
 
 Each theme includes:
 
@@ -43,6 +54,8 @@ Each theme includes:
    - Select the desired `.qss` file from the `themes/` folder
    - Restart Krita to apply the changes
 
+   ![Style Sheet Loader Settings](assets/Screenshot_20251212_110604.png)
+
 ### Apply Color Scheme (.colors)
 
 For a complete experience, you can also apply the corresponding `.colors` file:
@@ -55,6 +68,8 @@ For a complete experience, you can also apply the corresponding `.colors` file:
 2. **Apply in Krita**
    - Go to **Settings** → **Configure Krita** → **General**
    - Select the color scheme in the appearance section
+
+   ![Krita Settings](assets/Screenshot_20251212_110716.png)
 
 ## 📁 Repository Structure
 
